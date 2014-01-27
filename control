@@ -1,0 +1,8 @@
+Package: de.j-gessner.nocarrier
+Name: NoCarrier
+Depends: mobilesubstrate, firmware (>= 5.0)
+Version: 0.9
+Architecture: iphoneos-arm
+Description: Completely remove the Carrier Logo from the status bar. No options to configure.
+Author: Jonas Gessner
+Section: Tweaks
